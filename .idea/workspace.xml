@@ -104,7 +104,7 @@
         <entry file="file://$PROJECT_DIR$/topic_model.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
-              <selected id="19" />
+              <selected id="28" />
             </state>
           </provider>
         </entry>
@@ -292,10 +292,10 @@
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49928468" weight="0.32948717" />
       <window_info anchor="bottom" id="Python Console" order="12" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49928468" visible="true" weight="0.34871796" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49928468" weight="0.34871796" />
       <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.84191704" weight="0.46145833" />
       <window_info anchor="right" id="Remote Host" order="3" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21459228" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21459228" />
       <window_info id="Project Explorer" order="2" weight="0.11802575" />
       <window_info id="Job Explorer" order="2" weight="0.3297568" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
@@ -621,7 +621,7 @@
     <entry file="file://$PROJECT_DIR$/topic_model.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
-          <selected id="19" />
+          <selected id="28" />
         </state>
       </provider>
     </entry>
