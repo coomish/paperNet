@@ -4,7 +4,6 @@
 ## Instructions
 
 ## Create & activate environment
-* `pip install *
 * `conda env create -f environment.yml`
 * `conda activate pnet` OR `conda activate pnet36`
 
@@ -12,6 +11,6 @@
 * `mkdir papers`
 * copy papers you would like to analyze into '/papers/'
 
-## Run 
+## Run
 * ```python3 main.py```
 * ```python3 -m spacy download en```
